@@ -2,10 +2,10 @@
 
 #Glosario de comandos en MarkDown
 
-**pwd**: muestra la ruta en la que se está trabajando
-**cd**: siginifica "Change Directory" es para cambiar de directorio
-**cd ..**: regresar al directorio en donde se trabajaba anteriormente
-**clear**: limpiar consola
+1. **pwd**: muestra la ruta en la que se está trabajando
+2. **cd**: siginifica "Change Directory" es para cambiar de directorio
+3. **cd ..**: regresar al directorio en donde se trabajaba anteriormente
+4. **clear**: limpiar consola
 **echo**: escribe (imprime en pantalla)
 **touch**: crear un archivo en blanco
 **mkdir**: crea un directorio/carpeta
