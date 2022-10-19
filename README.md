@@ -35,3 +35,24 @@
 31. **git checkout (nombre de rama)**: cambiar de posición
 32. **git status -s**: para ver el status de forma corta
 33. **git checkout -b rama2**: para crear la rama y saltar a ella
+
+
+**Código para definir GitBash como terminal default**
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.env.windows":{
+        "CMDER_ROOT":"C:\\Users\\AlumnoFCA\\Desktop\\cmder"
+    },
+
+
+    "terminal.integrated.profiles.windows": {
+          "cmder": {
+            "path": "C:\\WINDOWS\\System32\\cmd.exe",
+            "args": ["/K", "%CMDER_ROOT%\\vendor\\bin\\vscode_init.cmd"]
+          }
+        },
+        "window.zoomLevel": 1,
+    
+}
