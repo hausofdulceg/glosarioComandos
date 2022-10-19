@@ -38,6 +38,7 @@
 
 
 **Código para definir GitBash como terminal default**
+
 {
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 5000,
